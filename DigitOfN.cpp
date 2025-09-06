@@ -1,17 +1,17 @@
 // ================================================
 //               Language: C++ / Cpp
-//               Topic   : [Function]
-//               Problem : 👉👉 [1]
-//               Want    : Combination
-//                        
+//               Topic   : [function]
+//               Problem : 👉👉 [4]
+//               Want    : DigitOfN.cpp                     
 // ================================================
 #include <iostream>
 using namespace std;
+int sumDigit(int a){
+    
+}
 int main(){
     int n;
     cout<< "Enter number " ;
     cin>> n;
     return 0 ;
 }
-
- git commit -m"solve 18th problem of 'Function' in C++"  
